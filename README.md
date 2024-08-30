@@ -8,7 +8,7 @@ ________________________________________________________________________________
 Table of Contents (click on a link to jump to that section)
 
 * <a href="#Introduction">Introduction</a>
-* <a href="#aboutus">Cognitive Issues</a>
+* <a href="#AboutUs12345">Cognitive Issues</a>
 
 ____________________________________________________________________________________________________________________
 
@@ -23,7 +23,7 @@ This essay/journal is to explain to you why I’m not working. The short answer 
 
 ____________________________________________________________________________________________________________________
 
-<a name="aboutus"></a>
+<a name="aboutus12345"></a>
 
 ### Cognitive Issues
 
